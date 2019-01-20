@@ -26,6 +26,7 @@ def last_evaluated_value
 "expert"
 end
 
-def pizza_party(top)
-top = "cheese"
+def pizza_party(topic)
+  topic = "cheese"
+return argument
 end
