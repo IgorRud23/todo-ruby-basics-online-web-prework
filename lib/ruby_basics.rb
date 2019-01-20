@@ -15,9 +15,6 @@ end
 def greeting(greeting = "Hi there, ", name = "Bobby!")
 end
 
-def greeting (greeting = "Ho there, ")
-end
-
 def return_a_value
 
 end
