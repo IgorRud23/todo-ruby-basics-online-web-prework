@@ -12,8 +12,8 @@ puts phrase
 return phrase
 end
 
-def greeting(greeting = "Hi there, ")
-puts "#{greeting}" + "Bobby!"
+def greeting(greeting = "Hi there, ", name = "Bobby!")
+puts "#{greeting}" + "#{name}"
 end
 
 def return_a_value
