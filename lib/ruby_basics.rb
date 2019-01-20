@@ -14,8 +14,6 @@ end
 
 def greeting(greeting = "Hi there ", name = "Bobby!")
   phrase = "#{greeting}" + "#{name}"
-  puts phrase
-  return phrase 
 end
 
 def return_a_value
