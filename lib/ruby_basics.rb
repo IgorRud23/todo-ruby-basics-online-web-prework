@@ -13,7 +13,7 @@ return phrase
 end
 
 def greeting(greeting = "Hi there, ", name = "Bobby!")
-puts "#{greeting}" + "#{name}"
+puts "#{greeting}" 
 end
 
 def return_a_value
