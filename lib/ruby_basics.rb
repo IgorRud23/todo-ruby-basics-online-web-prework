@@ -15,10 +15,6 @@ end
 def greeting(greeting = "Hi there, ", name = "Bobby!")
 puts "#{greeting}" + "#{name}"
 end
-def greeting(greeting = "Hi there, ")
-  puts "#{greeting}" + "Booby!"
-end
-end
 
 def return_a_value
 
