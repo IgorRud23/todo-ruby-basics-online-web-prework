@@ -12,8 +12,9 @@ puts phrase
 return phrase
 end
 
-def greeting(greeting, name = "Bobby!")
+def greeting(greeting, name)
 greeting = "Hi there, "
+name = "Bobby!"
 "#{greeting}" + "#{name}"
 end
 
